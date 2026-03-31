@@ -1,0 +1,7 @@
+soap
+detergent,
+vim
+gloves
+mop
+shower gael
+shampoo
