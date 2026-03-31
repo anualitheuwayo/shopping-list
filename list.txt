@@ -1,3 +1,4 @@
+ HEAD
 soap
 detergent,
 vim
@@ -5,3 +6,18 @@ gloves
 mop
 shower gael
 shampoo
+cabbages
+meat
+tomatoes 
+rice
+sweet potatoes
+cooking oil
+mayonaise
+ketchup
+biscuits 
+pringles 
+bread
+orea
+winnaz
+cake
+ main
